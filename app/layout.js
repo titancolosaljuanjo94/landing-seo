@@ -3,7 +3,7 @@ import Script from "next/script";
 
 export const metadata = {
   // Dejamos title y description vacíos como pediste.
-  title: "HOLA",
+  title: "Pastilla antipulga para mascotas (perros y gatos) |Compra aquí",
   description: "",
 
   // Canonical "auto" relativo a la raíz; cuando agregues metadataBase con tu dominio,
